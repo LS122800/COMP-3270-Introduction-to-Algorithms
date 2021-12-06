@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\Owner\Desktop\Algo_Prog_HW\AlgorithmsProject\AlgorithmsProject\Source.cpp(118,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner\Desktop\Algo_Prog_HW\AlgorithmsProject\AlgorithmsProject\Source.cpp(161,25): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Owner\Desktop\Algo_Prog_HW\AlgorithmsProject\AlgorithmsProject\Source.cpp(173,25): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Owner\Desktop\Algo_Prog_HW\AlgorithmsProject\AlgorithmsProject\Source.cpp(185,25): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Owner\Desktop\Algo_Prog_HW\AlgorithmsProject\AlgorithmsProject\Source.cpp(197,25): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Owner\Desktop\Algo_Prog_HW\AlgorithmsProject\AlgorithmsProject\Source.cpp(205,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Algo_Prog_HW\AlgorithmsProject\AlgorithmsProject\Source.cpp(211,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Algo_Prog_HW\AlgorithmsProject\AlgorithmsProject\Source.cpp(217,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Algo_Prog_HW\AlgorithmsProject\AlgorithmsProject\Source.cpp(223,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  AlgorithmsProject.vcxproj -> C:\Users\Owner\Desktop\Algo_Prog_HW\AlgorithmsProject\Debug\AlgorithmsProject.exe
