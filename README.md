@@ -1,5 +1,5 @@
 # COMP-3270-Introduction-to-Algorithms
-# Programming Assignment for Introduction to Algorithms (COMP-3270) Section 002, Auburn University, Fall 2021 
+# AUBURN CS/SE STUDENTS - DO NOT LOOK AT THIS. This Repo is for my personal storage and showcase. You learn nothing from cheating and it will only hurt you in the long run.
 
 Empirical analysis of algorithms involves implementing, running and then analyzing the run-time data collected against theoretical predictions. This homework asks you to implement, and theoretically and empirically compute the complexities of algorithms with different orders of complexity to solve the problem of Maximum Sum Contiguous Subvector defined as follows:
 
